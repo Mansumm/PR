@@ -1,0 +1,15 @@
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.AssemblyInfo.cs
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.exe
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.deps.json
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.runtimeconfig.json
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.dll
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\bin\Debug\net6.0\Калькулятор.pdb
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.dll
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\refint\Калькулятор.dll
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.pdb
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\Калькулятор.genruntimeconfig.cache
+C:\Users\Мансум\source\repos\Калькулятор\Калькулятор\obj\Debug\net6.0\ref\Калькулятор.dll
